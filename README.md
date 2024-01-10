@@ -10,7 +10,7 @@
 **开发交流**
 
 [![Discord](https://img.shields.io/badge/Discord-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BA%A4%E6%B5%81-purple)](https://discord.gg/8M8PSegv)
-[![QQ](https://img.shields.io/badge/QQ%E7%BE%A4-ImRains-blue)](mqqwpa://im/chat?chat_type=wpa&uin=[915011282])
+[![QQ](https://img.shields.io/badge/QQ%E7%BE%A4-ImRains-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=a8CnhsEHJXTb60tV6DDLVciOaRrlO7AP&jump_from=webapi&authKey=7twNXNsdcjjI55eSjFF199tPeNfTq2DXoDEmYp7nElwhI8pIpI/ffJeVW+k3QI8b)
 
 如果你也对游戏开发感兴趣，欢迎加入游戏开发交流频道(**QQ扫码**)
 
