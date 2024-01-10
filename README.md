@@ -16,6 +16,12 @@
 
 <div><img src="https://cdn.jsdelivr.net/gh/ImRains/imrains-img-cloud/docs/202401102125613.png" style="width:200px;" /></div>
 
+**合作**
+
+提供建站、小程序等前端的**设计**与**开发**服务
+
+[![Email](https://img.shields.io/badge/Email-hello%40imrains.com-green)](mailto:hello@imrains.com)
+
 ## Github活跃度
 
 ![GitHub活跃度](https://github-readme-stats.vercel.app/api?username=ImRains&show_icons=true)
